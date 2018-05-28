@@ -1,0 +1,19 @@
+
+header{
+	
+	background-color: lightblue;
+	background-image: url("");
+	background-size: 100%;
+	text-align: center;
+	}
+nav{
+	color: black;
+}
+img{
+    max-width: 100%;
+    height: auto;
+	}
+.centered{
+	text-align:center;
+}
+
